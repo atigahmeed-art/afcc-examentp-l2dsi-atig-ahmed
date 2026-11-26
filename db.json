@@ -1,0 +1,50 @@
+{
+  "sorties": [
+    {
+      "id": "1",
+      "ville": "Zarzis",
+      "region": "sud",
+      "date": "2026-04-12",
+      "places": 12
+    },
+    {
+      "id": "2",
+      "ville": "Kairouan",
+      "region": "centre",
+      "date": "2026-04-18",
+      "places": 20
+    },
+    {
+      "id": "3",
+      "ville": "Bizerte",
+      "region": "nord",
+      "date": "2026-05-02",
+      "places": 8
+    },
+    {
+      "id": "4",
+      "ville": "Djerba",
+      "region": "sud",
+      "date": "2026-05-09",
+      "places": 15
+    },
+    {
+      "id": "5",
+      "ville": "Tozeur",
+      "region": "sud",
+      "date": "2026-05-16",
+      "places": 10
+    }
+  ],
+  "inscriptions": [
+    {
+      "sortield": "1",
+      "prenom": "hedi",
+      "email": "atigd@gmail.com",
+      "age": 15,
+      "reglement": true,
+      "id": "-WLyuBGZ0qI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
